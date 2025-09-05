@@ -1,4 +1,4 @@
-from db_config import mydb
+from db_config import mydb 
 
 # Create a cursor from the existing connection
 mycursor = mydb.cursor()
